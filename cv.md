@@ -4,6 +4,7 @@
     * `Vladimir Privezenov`
 2. Contacts for communication: 
     * `privezenoff@yandex.ru`
+    * https://vk.com/privezenoff
 3. About me:
     * `I teach quickly, I strive to learn a lot of new things. I have the ability to self-study, if I turn to someone for help, then the question is really not an easy one. I'm also a stress-resistant person.`
 4. Skills:
